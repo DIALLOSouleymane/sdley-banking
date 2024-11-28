@@ -30,5 +30,22 @@ We'll use it to implement session replay. It will helps us hide all sensitive da
 ## Tips - tools
 - rafce: create a react function component
 
+## lunching our app
+To run our app, just use this command:
+- npm run dev
 
+It should be available on localhost:3000
+
+## Notices
+To format our balance currency, we use query-string
+- npm install query-string
+We'll also use the react-countup library to count up to the current balance.
+- npm install react-countup
+
+- Chart.js library
+    - npm install react-chartjs-2
+
+- Menu for mobile phone
+    - npx shadcn@latest add sheet
+    - open dialogue menu
 

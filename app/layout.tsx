@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "sdley Bank",
   description: "sdley bank est une moderne banque africaine pour tous.",
   icons: {
-    icon: 'icons/logo.svg'
+    icon: 'icons/react-favicon.ico'
   }
 };
 
